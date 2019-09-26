@@ -1,5 +1,17 @@
+body{
+    background: url("./assets/css/img/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .card-body{
     margin-top: 0;
     padding-top: 0;
 }
 
+/* @media screen and (max-width: 768px) {
+    .card-image {
+        min-width: 300px;
+    }
+} */
