@@ -40,6 +40,12 @@ body{
 
 }
 
+.footer {
+    position:fixed;
+    width: 100%;
+    bottom:0;
+}
+
 @media screen and (max-width: 640px) {
 .box1 {
     width: 80%;
