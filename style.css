@@ -10,6 +10,12 @@ body{
     padding-top: 0;
 }
 
+.card-image{
+    padding: 15px;
+    width: 200px;
+    float: left;
+}
+
 .overlay {
     position:relative;
     text-align: center;
